@@ -3,7 +3,7 @@ window.addEventListener("scroll",function(){
     header.classList.toggle("sticky", window.scrollY > 100)
 })
 var typed = new Typed(".texted", {
-    strings:['Software Developer','Web Developer'],
+    strings:['Software Developer','Web Developer','Application developer'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
@@ -23,6 +23,7 @@ window.onscroll =()=>{
     navlist.classList.remove('open');
    
 }
+
 
 
 
