@@ -216,7 +216,7 @@ section{
 .info-icons a:hover{
 background: #0ef;
 color: black;
-box-shadow: 0 0 20px #0ef;
+box-shadow: 0 0 18px #0ef;
 }
 .services{
     background: var(--second-bg-color);
@@ -243,7 +243,7 @@ box-shadow: 0 0 20px #0ef;
     background: var(--bg-color);
     padding: 35px 45px;
     border-radius: 8px;
-    transition: all .45s ease;
+    transition: all .40s ease;
 }
 .s-icons i{
     font-size: 32px;
@@ -565,3 +565,4 @@ font-size: 16px;
         margin-top: 5rem;
     }
 }
+
