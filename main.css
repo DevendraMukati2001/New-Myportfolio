@@ -27,6 +27,9 @@
 body{
     background: var(--bg-color);
 }
+.phone-number{
+    color:red;
+}
 header{
     position:fixed;
     width: 100%;
@@ -565,5 +568,6 @@ font-size: 16px;
         margin-top: 5rem;
     }
 }
+
 
 
